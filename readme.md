@@ -1,4 +1,4 @@
-# Three.js Journey
+# Three.js project it can generate galaxy .Various parameters can be manipulated to created a beautiful galaxy
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
